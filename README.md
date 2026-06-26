@@ -1,15 +1,16 @@
 # 🍕 Pizza Sales Dashboard
 
-An interactive Excel dashboard analyzing one year of pizza sales transactions — covering revenue trends, order patterns, and product performance to support data-driven business decisions.
+An interactive Excel dashboard analyzing one year of pizza sales transactions covering revenue trends, order patterns, and product performance to support data-driven business decisions.
 
-## 📊 Project Overview
+ 📊 Project Overview
 
-This dashboard breaks down pizza sales data to answer key business questions: which days and times drive the most orders, which pizzas sell best (and worst), and how sales are distributed across categories and sizes.
+This dashboard breaks down pizza sales data to answer key business questions: which days and times drive the most orders, which pizzas sell best and worst, and how sales are distributed across categories and sizes.
 
-## 🛠️ Tools Used
+ ## 🛠️ Tools Used
 
-- **Microsoft Excel** — Data cleaning, Pivot Tables, Pivot Charts
-- **Excel Dashboard Design** — Interactive slicers and KPI cards
+- *Microsoft Excel — Data cleaning, Pivot Tables, Pivot Charts
+- *Excel Dashboard Design — Interactive slicers and KPI cards
+- *SQL - Data extraction and querying
 
 ## 📈 Key Insights
 
@@ -24,8 +25,8 @@ This dashboard breaks down pizza sales data to answer key business questions: wh
 
 ## 📁 Files in This Repository
 
-| File | Description |
-|------|-------------|
+## | File | Description |
+
 | `Pizza sales dashboard.xlsx` | Full Excel dashboard with pivot tables, charts, and slicers |
 | `pizza queries.sql` | SQL queries used for data extraction and analysis |
 | `Pizza_Sales Queiers.docx` | Documentation of SQL queries with explanations |
