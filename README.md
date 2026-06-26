@@ -8,9 +8,9 @@ This dashboard breaks down pizza sales data to answer key business questions: wh
 
  ## 🛠️ Tools Used
 
-- ** Microsoft Excel ** — Data cleaning, Pivot Tables, Pivot Charts
-- ** Excel Dashboard Design ** — Interactive slicers and KPI cards
-- ** SQL ** - Data extraction and querying
+- # Microsoft Excel - Data cleaning, Pivot Tables, Pivot Charts
+- # Excel Dashboard Design - Interactive slicers and KPI cards
+- # SQL - Data extraction and querying
 
 ## 📈 Key Insights
 
